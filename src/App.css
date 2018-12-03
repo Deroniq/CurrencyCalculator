@@ -1,0 +1,30 @@
+#root {
+  height: 100% !important;
+}
+
+body, html, .App {
+  height: 100%;
+}
+
+.currCheckbox {
+  width: 330px; 
+  height: 30px;
+  display: inline-block;
+}
+
+.currInput {
+  width: 100px !important;
+}
+
+.App {
+  background-color: rgb(35, 43, 51);
+}
+
+.titleApp {
+  font-size: 27px !important;
+}
+
+.currency-box {
+  min-width: 300px;
+  background-color: var(--light);
+}
