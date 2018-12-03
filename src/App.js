@@ -10,6 +10,7 @@ import { faSlidersH } from '@fortawesome/free-solid-svg-icons'
 
 library.add(faSlidersH)
 
+
 class ListRates extends Component {
 
   render () {
